@@ -1,0 +1,3 @@
+main background color: #252525
+racing yellow: #FFEA17
+soft blue: #6488EA
